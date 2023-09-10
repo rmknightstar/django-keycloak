@@ -2,6 +2,8 @@
 Django Keycloak
 ===============
 
+*This was forked from https://github.com/Peter-Slump/django-keycloak which has not been updated since 2019 and is now out of date with the latest version of Django*
+
 .. image:: https://www.travis-ci.org/Peter-Slump/django-keycloak.svg?branch=master
    :target: https://www.travis-ci.org/Peter-Slump/django-keycloak
    :alt: Build Status
